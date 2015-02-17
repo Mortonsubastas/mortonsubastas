@@ -1,2 +1,7 @@
-# mortonsubastas
-Main website backend for http://mortonsubastas.com. Original frontend repo located at http://github.com/andyosuna/mortonsubastas.com
+Backend development for http://mortonsubastas.com.
+
+Original frontend repo located at http://github.com/andyosuna/mortonsubastas.com
+
+## Development Team
+
+* [@andiosuna](http://twitter.com/andiosuna)
